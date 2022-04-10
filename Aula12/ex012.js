@@ -1,0 +1,5 @@
+var agora = new Date()
+var hora = agora.getHours()
+var minuto = agora.getFullYear()
+console.log(hora)
+console.log(minuto)
